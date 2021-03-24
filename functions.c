@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <fstream>
 #include <math.h>
-#include "functions.h"//new comment
+#include "functions.h"
 using namespace std;
 
 void printhelp(){
